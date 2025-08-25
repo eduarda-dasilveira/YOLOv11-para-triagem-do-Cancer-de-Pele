@@ -1,0 +1,9 @@
+melanoma
+nevo
+carcinoma_basais
+queratoses_actinicas
+queratoses_benignas
+dermatofibroma
+lesao_vascular
+carcinoma_espinocecular
+desconhecido
