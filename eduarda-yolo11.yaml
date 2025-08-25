@@ -1,0 +1,19 @@
+# COCO128 dataset configuration for YOLO
+# Paths to train and validation datasets
+train: /home/jovyan/workspace/train/datasets/images  # Path to training images
+val: /home/jovyan/workspace/train/datasets/val    # Path to validation images
+
+# Number of classes
+nc: 2  # Number of classes in the dataset
+
+# Class names
+names: [
+  'melanoma',
+  'nevo',
+  'carcinoma_basais',
+  'queratoses_actinicas',
+  'queratoses_benignas',
+  'dermatofibroma',
+  'lesao_vascular',
+  'carcinoma_espinocelular'
+]
